@@ -118,6 +118,12 @@
       margin: 0;
       
     }
+      #course {
+      display: flexbox;
+      position: relative;
+      clear: both;
+      align-items: left;
+    }
     .header {
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       position: fixed;
